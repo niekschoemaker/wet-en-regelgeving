@@ -33,6 +33,9 @@ theme:
   logo: img/logoTedeapolis.png
   custom_dir: docs/overrides
   language: nl
+  features:
+    - navigation.tabs
+    - navigation.instant
 plugins:
   - git-revision-date-localized:
       type: timeago
